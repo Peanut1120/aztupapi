@@ -1,5 +1,2 @@
-## PSU API
-Made to interact with the psu buyer api.
+## Aztup API
 
-# Documentatuion:
-https://j0sh.gitbook.io/psu-api/
